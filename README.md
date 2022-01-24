@@ -1,7 +1,7 @@
 # Halo semua! 
 Perkenalkan nama saya **Abdullah**.\
 Saya seorang **Mahasiswa S1 Teknik Informatika** di [Udinus](https://www.dinus.ac.id/).\
-Saya juga memiliki Sertifikat  [Memulai Dasar Pemrograman untuk Menjadi Pengembang Software](https://www.dicoding.com/certificates/NVP717L24PR0) dari [Dicoding](https://www.dicoding.com/).\
+Pengalaman dalam Studi Independen Batch 1 di [Dicoding](https://www.dicoding.com/) dengan kelas Pengembang Aplikasi Android dan Multi-Platform .\
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/abdullah-67b9b2132/)ku ya.
 
 <p align="left">
