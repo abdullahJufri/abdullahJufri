@@ -1,7 +1,6 @@
 # Halo semua! 
 Perkenalkan nama saya **Abdullah**.\
 Saya seorang **Mahasiswa S1 Teknik Informatika** di [Udinus](https://www.dinus.ac.id/).\
-Pengalaman dalam Studi Independen Batch 1 di [Dicoding](https://www.dicoding.com/) dengan kelas Pengembang Aplikasi Android dan Multi-Platform .\
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/abdullah-67b9b2132/)ku ya.
 
 <p align="left">
